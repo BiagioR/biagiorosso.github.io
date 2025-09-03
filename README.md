@@ -67,14 +67,6 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
 - Paper 1 Economics: [Welfare Theorems (First Year UG)](link)
 - Paper 7 Regional Economics and Trade: [Dixit-Sitglitz-Krugman Model and Home Market Effect (Second Year UG)](link)
 
-## Connect With Me
-
-- 📧 [Email me](mailto:br421@cam.ac.uk)
-- 💡 [IDEAS/RePEc](https://ideas.repec.org/f/pro1398.html)
-- 💼 [LinkedIn](https://uk.linkedin.com/in/biagio-rosso)
-- 🐙 [GitHub](https://github.com/BiagioR)
-- 🐦 [Bluesky](https://bsky.app/profile/biagiorosso.bsky.social)
-
 ## Affiliation
 - [University of Cambridge](https://www.devstudies.cam.ac.uk/staff/biagio-rosso)
 - King's College London, University of London
@@ -85,3 +77,10 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
 - 19th Annual Dynare Conference, Bank of Finland, DSGE-net, CEPREMAP. Helsinki, June 5-6 2025
   <img src="assets/images/image001.jpg" alt="Dynare Conference" style="width: 350px; height: auto;">
 
+## Connect With Me
+
+- 📧 [Email me](mailto:br421@cam.ac.uk)
+- 💡 [IDEAS/RePEc](https://ideas.repec.org/f/pro1398.html)
+- 💼 [LinkedIn](https://uk.linkedin.com/in/biagio-rosso)
+- 🐙 [GitHub](https://github.com/BiagioR)
+- 🐦 [Bluesky](https://bsky.app/profile/biagiorosso.bsky.social)
