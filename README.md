@@ -3,8 +3,7 @@
 
 # Welcome to My Website
 
-![Image](assets/images/IMG_3345.JPG){: .small-image}
-
+![Image](assets/images/IMG_3345.jpg)
 ## About Me
 
 Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amazing things and sharing my knowledge with the world.
