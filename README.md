@@ -15,7 +15,16 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 
 <div class="project-grid">
     <div class="project-card">
-      <h3><a href="https://mpra.ub.uni-muenchen.de/125094/1/MPRA_paper_125094.pdf">Rosso, B. & Gatto, M. (2024). Dynamics and Optimal Monetary-Fiscal Policy in Fiscally Dominant         Economies with Occasionally Inflexible Monetary Authorities</a></h3>
+      <h3><a href="https://mpra.ub.uni-muenchen.de/125094/1/MPRA_paper_125094.pdf"> Rosso, Biagio & Gatto, Matteo. (2024). Dynamics and         Optimal Monetary-Fiscal Policy in Fiscally Dominant Economies with Occasionally Inflexible Monetary Authorities</a></h3>
+      <p> MPRA Paper, University Library of Munich, Germany. 2025. Included in New Economics Papers (NEP) Reports: NEP-CBA,
+      NEP-DGE, NEP-MON, NEP-MAC.</p>
+    </div>
+    <div class="project-card">
+      <h3><a href="https://postkeynesian.net/media/working-papers/PKWP2511.pdf"> Rosso, Biagio & Gatto, Matteo. (2025). Occasionally         Binding Constraints in DSGE Models with Heterogeneous Agents: a Generalised Nonlinear Framework and Applications to Inequality           and Monetary Policy at the ZLB.</a></h3>
+      <p> Post-Keynesian Economics Society (PKES) Working Paper Series, PKWP2511. Included in New Economics Papers (NEP) Reports: NEP-          CBA, NEP-DGE, NEP-MON, NEP-MAC.</p>
+    </div>
+    <div class="project-card">
+      <h3><a href="https://mpra.ub.uni-muenchen.de/125094/1/MPRA_paper_125094.pdf"> Rosso, Biagio & Gatto, Matteo. (2024). Dynamics and         Optimal Monetary-Fiscal Policy in Fiscally Dominant Economies with Occasionally Inflexible Monetary Authorities</a></h3>
       <p> MPRA Paper, University Library of Munich, Germany. 2025. Included in New Economics Papers (NEP) Reports: NEP-CBA,
       NEP-DGE, NEP-MON, NEP-MAC.</p>
     </div>
@@ -27,8 +36,10 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 ## Connect With Me
 
 - 📧 [Email me](mailto:br421@cam.ac.uk)
+- 💡 [IDEAS/RePEc](https://ideas.repec.org/f/pro1398.html)
 - 💼 [LinkedIn](https://uk.linkedin.com/in/biagio-rosso)
-- 🐙 [GitHub](https://github.com/{{BiagioR}})
+- 🐙 [GitHub](https://github.com/BiagioR)
 - 🐦 [Bluesky](https://bsky.app/profile/biagiorosso.bsky.social)
+
 
 
