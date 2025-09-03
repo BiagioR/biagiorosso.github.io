@@ -3,7 +3,7 @@
 
 # Welcome to My Website
 
-<img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 300px; height: auto;">
+<img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 350px; height: auto;">
 
 ## About Me
 
@@ -16,7 +16,7 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 <div class="project-grid">
   {% for project in site.projects limit:3 %}
     <div class="project-card">
-      <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+      <h3><a href="{https://mpra.ub.uni-muenchen.de/125094/1/MPRA_paper_125094.pdf}">{Rosso, B. & Gatto, M. (2024). Dynamics and Optimal       Monetary-Fiscal Policy in Fiscally Dominant Economies with Occasionally Inflexible Monetary Authorities}</a></h3>
       <p>{{ project.excerpt }}</p>
     </div>
   {% endfor %}
