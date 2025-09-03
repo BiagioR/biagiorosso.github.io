@@ -11,7 +11,7 @@ title: Home
 
 ## About Me
 
-Hi, I'm **Your Name**, a passionate [your profession/field]. I love creating amazing things and sharing my knowledge with the world.
+Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amazing things and sharing my knowledge with the world.
 
 ## Research Work and Interests
 
@@ -34,9 +34,9 @@ Hi, I'm **Your Name**, a passionate [your profession/field]. I love creating ama
 
 ## Connect With Me
 
-- 📧 [Email me](mailto:{{br421@cam.ac.uk}})
-- 💼 [LinkedIn](https://linkedin.com/in/{{ site.social.linkedin }})
-- 🐙 [GitHub](https://github.com/{{ site.social.github }})
-- 🐦 [Twitter](https://twitter.com/{{ site.social.twitter }})
+- 📧 [Email me](mailto:br421@cam.ac.uk)
+- 💼 [LinkedIn](https://uk.linkedin.com/in/biagio-rosso)
+- 🐙 [GitHub](https://github.com/{{BiagioR}})
+- 🐦 [Bluesky](https://bsky.app/profile/biagiorosso.bsky.social)
 
-![Footer Image](assets/images/footer-graphic.svg){: .footer-image}
+
