@@ -11,6 +11,7 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 
 - [Contact Me: br421@cam.ac.uk](mailto:br421@cam.ac.uk)
 - [CV](CVwebsite.pdf)
+- [RePEc Author NEP Field Listings: Macroeconomics (MAC), Monetary Economics (MON), Dynamic General Equilibrium (DGE), Central Banking     (CBA)](https://ideas.repec.org/f/pro1398.html)
   
 ## Research Work and Interests
 
