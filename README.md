@@ -1,19 +1,18 @@
 # Biagio Rosso
 
-
-# Welcome to My Website
-
 <img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 350px; height: auto;">
 
 ## About Me
 
-I am a Ph.D. Student at the University of Cambridge, working in macroeconomics and monetary economics. My main interest and work is on theoretical DSGE modelling, DSGE and HANK estimation with business cycle and empirical data, computational and solution methods in the state and sequence-space, modelling institutional and behavioural frictions in DSGE, and applications to the analysis of monetary and fiscal policy transmission and optimal design. 
+I am a Ph.D. Student at the University of Cambridge, working in macroeconomics and monetary economics. My main interest and work is on theoretical DSGE modelling, DSGE and particularly HANK estimation with business cycle and empirical data, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, wealth inequality, and applications to the analysis of monetary and fiscal policy transmission and optimal design. 
 
 - [Contact Me: br421@cam.ac.uk](mailto:br421@cam.ac.uk)
 - [CV](CVwebsite.pdf)
 - [RePEc Author NEP Field Listings: Macroeconomics (MAC), Monetary Economics (MON), Dynamic General Equilibrium (DGE), Central Banking     (CBA)](https://ideas.repec.org/f/pro1398.html)
 
-After recently completing my Ph.D. internship at the Bank of England and as the Ph.D. gets wrapped up, I am joining the econ job market this fall (2025). I am particularly interested in research roles in Central Banking and Academia in any of the above areas. I would be happy to discuss any such opportunities. Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. Thank you for your time!
+After recently completing my Ph.D. internship at the Bank of England, I am joining the econ job market this fall (2025). I am particularly interested in research roles in Academia and Central Banking in any of the above areas. I would be happy to discuss any such opportunities. 
+
+Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. Thank you for your time!
 
 ## Publications and Research Output
 
@@ -70,6 +69,6 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. [Slid
 
 ## Affiliation
 - [University of Cambridge](https://www.devstudies.cam.ac.uk/staff/biagio-rosso)
-- [Corpus Christi College, University of Cambridge]
-- [Society of Professional Economists]
+- Corpus Christi College, University of Cambridge
+- Society of Professional Economists
 
