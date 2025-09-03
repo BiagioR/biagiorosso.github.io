@@ -64,7 +64,7 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
 ## Sample Teaching Materials
 
 - Paper 1 Economics: [Monopolistic Competition and Games (First Year UG)](Slides_Paper1_Supo.pdf)
-- Paper 1 Economics: [Welfare Theorems (First Year UG)](Slides_Paper1_Economics_Supo_4.pdf)
+- Paper 1 Economics: [Welfare Theorems (First Year UG)](Slides_Paper_1_Economics_Supo_4.pdf)
 - Paper 7 Regional Economics and Trade: [Dixit-Sitglitz-Krugman Model and Home Market Effect (Second Year UG)](Slides_Paper_7_Krugman_HomeMarketEffect.pdf)
 
 ## Affiliation
