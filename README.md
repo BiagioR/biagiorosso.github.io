@@ -3,7 +3,7 @@
 
 # Welcome to My Website
 
-![Image](assets/images/IMG_3345.jpg){: .small-image}
+![Image](assets/images/IMG_3345.JPG){: .small-image}
 
 ## About Me
 
