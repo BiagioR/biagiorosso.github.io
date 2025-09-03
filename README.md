@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Website
 
-![Hero Image](assets/images/hero-banner.jpg){: .hero-image}
+![Hero Image](IMG_3345.jpg){: .photo}
 
 ## About Me
 
