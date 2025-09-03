@@ -46,10 +46,10 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
    
 3. Rosso, Biagio. (2025). How Financial-Institutional Structure Drives Business Cycle(s): a Semi-Structural
 DSGE Modelling Framework.
-  - [Slides available on request](mailto:br421@cam.ac.uk)
+  - [Slides and Full Draft available on request](mailto:br421@cam.ac.uk)
 
-5. Rosso, Biagio. (2025). Lucas-Stokey meet Lewis: Optimal Fiscal Policy and Implicit Redistribution in a Dual Economy. [Slides available on request]
-   - [Slides available on request](mailto:br421@cam.ac.uk)
+5. Rosso, Biagio. (2025). Lucas-Stokey meet Lewis: Optimal Fiscal Policy and Implicit Redistribution in a Dual Economy. 
+   - [Slides, Bank of England Macro Brownbag](Rosso_DualEconomyFiscalPolicy_Slides_New.pdf)
    
 7. Rosso, Biagio and Gatto, Matteo. (2025). The Changing Slope of the Phillips Curve: a State-Space Model and
 Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. [Slides available on request]
