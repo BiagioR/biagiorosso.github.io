@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Ph.D. Student at the University of Cambridge, working in macroeconomics and monetary economics. My main interest and work is on theoretical DSGE modelling, DSGE and particularly HANK estimation with business cycle and empirical data, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, wealth inequality, and applications to the analysis of monetary and fiscal policy transmission and optimal design. 
+I am a Ph.D. Student at the University of Cambridge, working in macroeconomics and monetary economics. My main interest and work is on theoretical DSGE modelling, DSGE and particularly HANK estimation with business cycle and empirical data, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, wealth inequality in the business cycle, and applications to the analysis of monetary and fiscal policy transmission and their optimal design. 
 
 - [Contact Me: br421@cam.ac.uk](mailto:br421@cam.ac.uk)
 - [CV](CVwebsite.pdf)
@@ -12,7 +12,9 @@ I am a Ph.D. Student at the University of Cambridge, working in macroeconomics a
 
 After recently completing my Ph.D. internship at the Bank of England, I am joining the econ job market this fall (2025). I am particularly interested in research roles in Academia and Central Banking in any of the above areas. I would be happy to discuss any such opportunities. 
 
-Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. Thank you for your time!
+Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. At the bottom of the website, I also provided links to examples of the  materials I prepared for economics teaching on a number of courses in Cambridge. 
+
+Thank you for your time and consideration!
 
 ## Publications and Research Output
 
@@ -58,6 +60,12 @@ DSGE Modelling Framework.
 3. Rosso, Biagio and Gatto, Matteo. (2025). The Changing Slope of the Phillips Curve: a State-Space Model and
 Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. 
    - [Slides and advanced draft available on request](mailto:br421@cam.ac.uk)
+  
+## Sample Teaching Materials
+
+-- Paper 1 Economics: [Monopolistic Competition and Games (First Year UG)](link)
+-- Paper 1 Economics: [Welfare Theorems (First Year UG)](link)
+-- Paper 7 Regional Economics and Trade: [Dixit-Sitglitz-Krugman Model and Home Market Effect (Second Year UG)](link)
 
 ## Connect With Me
 
