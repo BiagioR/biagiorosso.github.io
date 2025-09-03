@@ -69,8 +69,10 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. [Slid
 
 ## Affiliation
 - [University of Cambridge](https://www.devstudies.cam.ac.uk/staff/biagio-rosso)
+- King's College London, University of London
 - Corpus Christi College, University of Cambridge
 - Society of Professional Economists
 
+## Gallery 
   <img src="assets/images/image001.jpg" alt="Dynare Conference" style="width: 350px; height: auto;">
 
