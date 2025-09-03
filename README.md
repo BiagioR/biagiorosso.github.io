@@ -4,21 +4,21 @@
 
 ## About Me
 
-I am a Ph.D. Student at the University of Cambridge, working in macroeconomics and monetary economics. My main interest and work is on theoretical DSGE modelling, DSGE and particularly HANK estimation with business cycle and empirical data, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, wealth inequality in the business cycle, and applications to the analysis of monetary and fiscal policy transmission and their optimal design. 
+I am a Ph.D. Student at the University of Cambridge, working in macroeconomics and monetary economics. My main interest and work is in theoretical DSGE and HANK modelling, the estimation of DSGE and HANK models with business cycle and empirical data and Bayesian approaches, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, wealth inequality in the business cycle, and applications to the analysis of monetary and fiscal policy transmission and their optimal design. 
 
 - [Contact Me: br421@cam.ac.uk](mailto:br421@cam.ac.uk)
 - [CV](CVwebsite.pdf)
-- [RePEc Author NEP Field Listings: Macroeconomics (MAC), Monetary Economics (MON), Dynamic General Equilibrium (DGE), Central Banking     (CBA)](https://ideas.repec.org/f/pro1398.html)
+- [RePEc Author NEP Field Listings: Macroeconomics (MAC), Monetary Economics (MON), Dynamic General Equilibrium (DGE), Central Banking (CBA)](https://ideas.repec.org/f/pro1398.html)
 
 After recently completing my Ph.D. internship at the Bank of England, I am joining the econ job market this fall (2025). I am particularly interested in research roles in Academia and Central Banking in any of the above areas. I would be happy to discuss any such opportunities. 
 
-Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. At the bottom of the website, I also provided links to examples of the  materials I prepared for economics teaching on a number of courses in Cambridge. 
+Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. To complement this, I also provided links to examples of the materials I prepared for economics teaching on a number of courses in Cambridge (any errors are my own). At the bottom of the page, you can finally the handles for the social media on which I am active.
 
 Thank you for your time and consideration!
 
 ## Publications and Research Output
 
-### Public Working Papers
+### Public Working Papers/In Preparation for Publication
 
 <div class="project-grid">
     <div class="project-card">
@@ -45,7 +45,7 @@ Thank you for your time and consideration!
     </div>
 </div>
 
-## Current Research Work
+## Current Research Work/Working Papers
 
 1. Lenney, Jamie and Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space. Presented at the Bank of England MPOD research seminar.
    - [Slides available on request](mailto:br421@cam.ac.uk)
@@ -63,9 +63,9 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
   
 ## Sample Teaching Materials
 
-- Paper 1 Economics: [Monopolistic Competition and Games (First Year UG)](link)
-- Paper 1 Economics: [Welfare Theorems (First Year UG)](link)
-- Paper 7 Regional Economics and Trade: [Dixit-Sitglitz-Krugman Model and Home Market Effect (Second Year UG)](link)
+- Paper 1 Economics: [Monopolistic Competition and Games (First Year UG)](Slides_Paper1_Supo.pdf)
+- Paper 1 Economics: [Welfare Theorems (First Year UG)](Slides_Paper1_Economics_Supo_4.pdf)
+- Paper 7 Regional Economics and Trade: [Dixit-Sitglitz-Krugman Model and Home Market Effect (Second Year UG)](Slides_Paper_7_Krugman_HomeMarketEffect.pdf)
 
 ## Affiliation
 - [University of Cambridge](https://www.devstudies.cam.ac.uk/staff/biagio-rosso)
