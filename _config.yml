@@ -39,8 +39,8 @@ navigation:
   #  url: /projects/
   #- title: Blog
    # url: /blog/
-  #- title: Contact
-  #  url: /contact/
+  - title: Economics Teaching
+    url: /teaching.md/
 
 # Collections
 #collections:
