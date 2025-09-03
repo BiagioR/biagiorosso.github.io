@@ -3,7 +3,7 @@
 
 # Welcome to My Website
 
-<img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 200px; height: auto;">
+<img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 300px; height: auto;">
 
 ## About Me
 
@@ -16,7 +16,7 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 <div class="project-grid">
   {% for project in site.projects limit:3 %}
     <div class="project-card">
-      <img src="{{ project.image }}" alt="{{ project.title }}">
+      <img src="{{ project.image }}" alt="Optimal Fiscal Policy">
       <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
       <p>{{ project.excerpt }}</p>
     </div>
