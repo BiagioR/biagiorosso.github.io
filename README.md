@@ -19,7 +19,6 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
       <p> MPRA Paper, University Library of Munich, Germany. 2025. Included in New Economics Papers (NEP) Reports: NEP-CBA,
       NEP-DGE, NEP-MON, NEP-MAC.</p>
     </div>
-  {% endfor %}
 </div>
 
 ## Work in Progress
