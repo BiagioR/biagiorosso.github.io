@@ -7,13 +7,13 @@
 
 ## About Me
 
-Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amazing things and sharing my knowledge with the world.
+I am a Ph.D. Student at the University of Cambridge, working in macroeconomics and monetary economics. My main interest and work is on theoretical DSGE modelling, DSGE and HANK estimation with business cycle and empirical data, computational and solution methods in the state and sequence-space, modelling institutional and behavioural frictions in DSGE, and applications to the analysis of monetary and fiscal policy transmission and optimal design. 
 
 - [Contact Me: br421@cam.ac.uk](mailto:br421@cam.ac.uk)
 - [CV](CVwebsite.pdf)
 - [RePEc Author NEP Field Listings: Macroeconomics (MAC), Monetary Economics (MON), Dynamic General Equilibrium (DGE), Central Banking     (CBA)](https://ideas.repec.org/f/pro1398.html)
-  
-## Research Work and Interests
+
+After recently completing my Ph.D. internship at the Bank of England and as the Ph.D. gets wrapped up, I am joining the econ job market this fall (2025). I am particularly interested in research roles in Central Banking and Academia in any of the above areas. I would be happy to discuss any such opportunities. Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. Thank you for your time!
 
 ## Publications and Research Output
 
@@ -35,7 +35,7 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
     </div>
 </div>
 
-### Publications
+### Journal Publications
 
 <div class="project-grid">
     <div class="project-card">
@@ -44,7 +44,7 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
     </div>
 </div>
 
-## Ongoing Research Work
+## Current Research Work
 
 1. Lenney, Jamie and Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space. Presented at the Bank of England MPOD research seminar.
    - [Slides available on request](mailto:br421@cam.ac.uk)
