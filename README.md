@@ -56,7 +56,7 @@ DSGE Modelling Framework.
   - [Slides and full fraft available on request](mailto:br421@cam.ac.uk)
    
 3. Rosso, Biagio and Gatto, Matteo. (2025). The Changing Slope of the Phillips Curve: a State-Space Model and
-Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. [Slides available on request]
+Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. 
    - [Slides and advanced draft available on request](mailto:br421@cam.ac.uk)
 
 ## Connect With Me
