@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Website
 
-![Image](assets/images/IMG_3345.jpg){: .small-image}
+![small-image](assets/images/IMG_3345.jpg)
 
 ## About Me
 
