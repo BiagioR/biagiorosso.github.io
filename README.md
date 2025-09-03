@@ -41,13 +41,19 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 
 ## Ongoing Work
 
-1. Lenney, Jamie and Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space. Presented at the Bank of England MPOD research seminar. [Slides available on request]
-2. Rosso, Biagio. (2025). How Financial-Institutional Structure Drives Business Cycle(s): a Semi-Structural
-DSGE Modelling Framework. [Slides available on request]
-3. Rosso, Biagio. (2025). Lucas-Stokey meet Lewis: Optimal Fiscal Policy and Implicit Redistribution in a Dual Economy. [Slides available on request]
-4. Rosso, Biagio and Gatto, Matteo. (2025). The Changing Slope of the Phillips Curve: a State-Space Model and
-Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. [Slides available on request]
+1. Lenney, Jamie and Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space. Presented at the Bank of England MPOD research seminar.
+   - [Slides available on request](mailto:br421@cam.ac.uk)
+   
+3. Rosso, Biagio. (2025). How Financial-Institutional Structure Drives Business Cycle(s): a Semi-Structural
+DSGE Modelling Framework.
+  - [Slides available on request](mailto:br421@cam.ac.uk)
 
+5. Rosso, Biagio. (2025). Lucas-Stokey meet Lewis: Optimal Fiscal Policy and Implicit Redistribution in a Dual Economy. [Slides available on request]
+   - [Slides available on request](mailto:br421@cam.ac.uk)
+   
+7. Rosso, Biagio and Gatto, Matteo. (2025). The Changing Slope of the Phillips Curve: a State-Space Model and
+Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. [Slides available on request]
+   - [Slides available on request](mailto:br421@cam.ac.uk)
 
 ## Connect With Me
 
