@@ -1,13 +1,13 @@
 # Site settings
 title: Biagio Rosso
-description: Biagio Rosso academic and professional website
+description: 
 url: "https://biagior.github.io"
 baseurl: "/biagiorosso.github.io"
 author: Biagio Rosso
 email: br421@cam.ac.uk
 
 # Jekyll theme (choose one)
-# theme: jekill-theme
+theme: jekill-theme
 remote_theme: pages-themes/cayman@v0.2.0
 
 # For GitHub Pages, you might need to use remote_theme instead:
