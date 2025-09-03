@@ -14,7 +14,6 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 ## Publications and Public Working Papers
 
 <div class="project-grid">
-  {% for project in site.projects limit:3 %}
     <div class="project-card">
       <h3><a href="https://mpra.ub.uni-muenchen.de/125094/1/MPRA_paper_125094.pdf">Rosso, B. & Gatto, M. (2024). Dynamics and Optimal Monetary-Fiscal Policy in Fiscally Dominant         Economies with Occasionally Inflexible Monetary Authorities</a></h3>
       <p> MPRA Paper, University Library of Munich, Germany. 2025. Included in New Economics Papers (NEP) Reports: NEP-CBA,
@@ -22,8 +21,6 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
     </div>
   {% endfor %}
 </div>
-
-[View All Projects](projects){: .btn .btn-secondary}
 
 ## Work in Progress
 
