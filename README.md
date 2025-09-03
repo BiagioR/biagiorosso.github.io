@@ -72,5 +72,5 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. [Slid
 - Corpus Christi College, University of Cambridge
 - Society of Professional Economists
 
-  <img src="assets/images/image001" alt="Dynare Conference" style="width: 350px; height: auto;">
+  <img src="assets/images/image001.jpg" alt="Dynare Conference" style="width: 350px; height: auto;">
 
