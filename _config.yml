@@ -1,13 +1,15 @@
 # Site settings
-title: Your Website Name
-description: A brief description of your website that appears in search results
-url: "https://yourusername.github.io"
-baseurl: "/your-repo-name"
-author: Your Name
-email: your.email@example.com
+title: Biagio Rosso
+description: Biagio Rosso academic and professional website
+url: "https://biagior.github.io"
+baseurl: "/biagiorosso.github.io"
+author: Biagio Rosso
+email: br421@cam.ac.uk
 
 # Jekyll theme (choose one)
-theme: minima
+# theme: jekill-theme
+remote_theme: pages-themes/cayman@v0.2.0
+
 # For GitHub Pages, you might need to use remote_theme instead:
 # remote_theme: pages-themes/minimal@v0.2.0
 
@@ -19,41 +21,42 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-github-metadata
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Social links
 social:
-  github: yourusername
-  twitter: yourtwitterhandle
-  linkedin: yourlinkedin
+  github: BiagioR
+  bluesky: https://bsky.app/profile/biagiorosso.bsky.social
+  linkedin: https://uk.linkedin.com/in/biagio-rosso
 
 # Navigation
 navigation:
   - title: Home
-    url: /
-  - title: About
+    url: /readme.md/
+  #- title: About
     url: /about/
-  - title: Projects
+  #- title: Projects
     url: /projects/
-  - title: Blog
+  #- title: Blog
     url: /blog/
   - title: Contact
     url: /contact/
 
 # Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name/
+#collections:
+#  projects:
+#    output: true
+ #   permalink: /:collection/:name/
 
 # Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
+#defaults:
+#  - scope:
+#      path: ""
+#      type: "posts"
+#    values:
+ #     layout: "post"
+ # - scope:
+ #     path: ""
+ #     type: "projects"
+ #   values:
+ #     layout: "project"
