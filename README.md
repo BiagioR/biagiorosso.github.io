@@ -34,7 +34,6 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 
 <div class="project-grid">
     <div class="project-card">
-    <div class="project-card">
       <h3><a href="http://www.accessecon.com/Pubs/EB/2025/Volume45/EB-25-V45-I2-P86.pdf"> Rosso, Biagio. (2025). Notes on inflationary         news and the equity premium puzzle in a two-asset incomplete markets model</a></h3>
       <p> Economics Bulletin (EB), Vol 45 Issue 2 </p>
     </div>
