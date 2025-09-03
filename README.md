@@ -3,7 +3,7 @@
 
 # Welcome to My Website
 
-<img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 400px; height: auto;">
+<img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 200px; height: auto;">
 
 ## About Me
 
