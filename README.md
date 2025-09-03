@@ -7,8 +7,7 @@ projects:
     brary of Munich, Germany. 2025"
     description: "Included in NEP reports: NEP-CBA,
     NEP-DGE, NEP-MON, NEP-MAC."
-    link: https :/ / mpra .ub . uni- muenchen. de / 125094/ 1 /
-    MPRA_paper_125094.pdf
+    link: (https://mpra.ub.uni-muenchen.de/125094/1/MPRA_paper_125094.pdf)
     
   - title: "Weather App"
     description: "Real-time weather dashboard with forecasts"
