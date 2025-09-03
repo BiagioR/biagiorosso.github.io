@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Me
+permalink: /README/
+---
+
 # Biagio Rosso
 
 <img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 350px; height: auto;">
