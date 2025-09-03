@@ -74,5 +74,6 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
 - Society of Professional Economists
 
 ## Gallery 
+- 19th Annual Dynare Conference, Bank of Finland, DSGE-net, CEPREMAP. Helsinki, June 5-6 2025
   <img src="assets/images/image001.jpg" alt="Dynare Conference" style="width: 350px; height: auto;">
 
