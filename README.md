@@ -42,6 +42,10 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 
 ## Ongoing Work
 
+1. Lenney, Jamie and Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space. Presented at the Bank of England MPOD research seminar.
+   -- slides available on request (mailto:br421@cam.ac.uk)
+
+
 
 ## Connect With Me
 
