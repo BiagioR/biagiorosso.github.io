@@ -16,7 +16,9 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
 ## Research Work and Interests
 
 
-## Public Working Papers
+## Publications and Research Output
+
+### Public Working Papers
 
 <div class="project-grid">
     <div class="project-card">
@@ -30,7 +32,7 @@ Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amaz
     </div>
 </div>
 
-## Publications
+### Publications
 
 <div class="project-grid">
     <div class="project-card">
