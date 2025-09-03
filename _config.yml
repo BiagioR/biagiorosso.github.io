@@ -34,13 +34,13 @@ navigation:
   - title: Home
     url: /README.md/
   #- title: About
-    url: /about/
+  #  url: /about/
   #- title: Projects
-    url: /projects/
+  #  url: /projects/
   #- title: Blog
-    url: /blog/
-  - title: Contact
-    url: /contact/
+   # url: /blog/
+  #- title: Contact
+  #  url: /contact/
 
 # Collections
 #collections:
