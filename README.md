@@ -9,8 +9,8 @@
 
 Hi, I'm Biagio Rosso, a passionate [your profession/field]. I love creating amazing things and sharing my knowledge with the world.
 
-- [Contract Me:](mailto:br421@cam.ac.uk)
-- [CV](mailto:br421@cam.ac.uk)
+- [Contact Me: br421@cam.ac.uk](mailto:br421@cam.ac.uk)
+- [CV](CVwebsite.pdf)
   
 ## Research Work and Interests
 
