@@ -1,6 +1,6 @@
 # Site settings
 title: Biagio Rosso
-description: 
+description: Personal and academic website
 url: "https://biagior.github.io"
 baseurl: "/biagiorosso.github.io"
 author: Biagio Rosso
@@ -32,7 +32,7 @@ social:
 # Navigation
 navigation:
   - title: Home
-    url: /readme.md/
+    url: /README.md/
   #- title: About
     url: /about/
   #- title: Projects
