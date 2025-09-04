@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Ph.D. Student at the University of Cambridge, working in macroeconomics and monetary economics. My main interest and work is in theoretical DSGE and HANK modelling, the estimation of DSGE and HANK models with business cycle and empirical data and Bayesian approaches, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, wealth inequality in the business cycle, and applications to the analysis of monetary and fiscal policy transmission and their optimal design. 
+I am a Ph.D. Student at the University of Cambridge, working in macroeconomics, monetary economics, and development. My main interest and work is in theoretical DSGE and HANK modelling, the estimation of DSGE and HANK models with business cycle and empirical data and particularly Bayesian approaches, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, the role of wealth inequality in the business cycle, and applications to the analysis of monetary and fiscal policy transmission and their optimal design.
 
 - [Contact Me: br421@cam.ac.uk](mailto:br421@cam.ac.uk)
 - [CV](CVwebsite.pdf)
@@ -12,7 +12,7 @@ I am a Ph.D. Student at the University of Cambridge, working in macroeconomics a
 
 After recently completing my Ph.D. internship at the Bank of England, I am joining the econ job market this fall (2025). I am particularly interested in research roles in Academia and Central Banking in any of the above areas. I would be happy to discuss any such opportunities. 
 
-Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. To complement this, I also provided links to examples of the materials I prepared for economics teaching on a number of courses in Cambridge (any errors are my own). At the bottom of the page, you can finally the handles for the social media on which I am active.
+Below you will find a selection of my research output and ongoing work: please reach out if you would like the slides or a full draft of the listed works if this is signalled as available on request. To complement this, I also provided links to examples of materials I prepared for economics teaching on an array of courses in Cambridge (any errors are my own). At the bottom of the page, you can finally the handles for the social media on which I am active.
 
 Thank you for your time and consideration!
 
@@ -71,7 +71,7 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
 - [University of Cambridge](https://www.devstudies.cam.ac.uk/staff/biagio-rosso)
 - King's College London, University of London
 - Corpus Christi College, University of Cambridge
-- Society of Professional Economists
+- UK Society of Professional Economists (SPE)
 
 ## Gallery 
 - 19th Annual Dynare Conference, Bank of Finland, DSGE-net, CEPREMAP. Helsinki, June 5-6 2025
