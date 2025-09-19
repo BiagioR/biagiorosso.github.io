@@ -57,8 +57,7 @@ Thank you for your time and consideration!
 Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. 
    - [Slides and advanced draft available on request](mailto:br421@cam.ac.uk)
   
-4. Rosso, B. and Samaras, G. Fiscal Policy, Inequality, and Energy Transitions in Regionally Frag-
-mented Economies: a “Double TANK” and Bayesian Estimation with UK Data.
+4. Rosso, B. and Samaras, G. Fiscal Policy, Inequality, and Energy Transitions in Regionally Fragmented Economies: a “Double TANK” and Bayesian Estimation with UK Data.
    - King’s College London Eteron Institute Research Project “Reclaiming Europe’s Industrial Policy
     Through Just Taxation and Innovation. 2025. [Link to Grant Call.](https://www.kcl.ac.uk/news/kings-college-london-and-eteron-institute-launch-new-research-project-on-industrial-policy-and-just-taxation)
    - [Research Proposal and Modelling Project](Research Proposal KCL-ETERON.pdf)
