@@ -52,14 +52,16 @@ Thank you for your time and consideration!
 
 2. Rosso, Biagio. (2025). Lucas-Stokey meet Lewis: Optimal Fiscal Policy and Implicit Redistribution in a Dual Economy. 
    - [Slides, Bank of England Macro Brownbag](Rosso_DualEconomyFiscalPolicy_Slides_New.pdf)
-
-3. Rosso, Biagio. (2025). How Financial-Institutional Structure Drives Business Cycle(s): a Semi-Structural
-DSGE Modelling Framework.
-  - [Slides and full fraft available on request](mailto:br421@cam.ac.uk)
    
 3. Rosso, Biagio and Gatto, Matteo. (2025). The Changing Slope of the Phillips Curve: a State-Space Model and
 Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. 
    - [Slides and advanced draft available on request](mailto:br421@cam.ac.uk)
+  
+4. Rosso, B. and Samaras, G. Fiscal Policy, Inequality, and Energy Transitions in Regionally Frag-
+mented Economies: a “Double TANK” and Bayesian Estimation with UK Data.
+   - King’s College London Eteron Institute Research Project “Reclaiming Europe’s Industrial Policy
+    Through Just Taxation and Innovation. 2025. [Link to Grant Call.](https://www.kcl.ac.uk/news/kings-college-london-and-eteron-institute-launch-new-research-project-on-industrial-policy-and-just-taxation)
+   - [Research Proposal and Modelling Project](Research Proposal KCL-ETERON.pdf)
   
 ## Sample Teaching Materials
 
