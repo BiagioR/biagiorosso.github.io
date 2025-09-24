@@ -30,6 +30,13 @@ Thank you for your time and consideration!
       <h3><a href="https://postkeynesian.net/media/working-papers/PKWP2511.pdf"> Rosso, Biagio & Gatto, Matteo. (2025). Occasionally         Binding Constraints in DSGE Models with Heterogeneous Agents: a Generalised Nonlinear Framework and Applications to Inequality and Monetary Policy at the ZLB.</a></h3>
       <p> Post-Keynesian Economics Society (PKES) Working Paper Series, PKWP2511. Included in New Economics Papers (NEP) Reports: NEP-          CBA, NEP-DGE, NEP-MON, NEP-MAC & Conference Paper, 19th Annual DYNARE conference (Heterogeneity and Nonlinearities in                    Macroeconomics)</p>
     </div>
+
+ <div class="project-card">
+      <h3><a href="Slides_Biagio_BankofEnglandSeminar.pdf"> Lenney, Jamie & Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space.</a></h3>
+      <p> Slides (Bank of England MPOD Seminar, August 2025)  </p>
+      <p> Full Draft in Preparation </p>
+    </div>
+    
   <div class="project-card">
       <h3><a href="mailto:br421@cam.ac.uk"> Rosso, Biagio. (2025). How Financial-Institutional Structure Drives Business Cycle(s): a Semi-Structural DSGE Modelling Framework.</a></h3>
       <p> Slides and full draft available on request  </p>
@@ -47,17 +54,14 @@ Thank you for your time and consideration!
 
 ## Current Research Work/Working Papers
 
-1. Lenney, Jamie and Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space. Presented at the Bank of England MPOD research seminar.
-   - [Slides available on request](mailto:br421@cam.ac.uk)
-
-2. Rosso, Biagio. (2025). Lucas-Stokey meet Lewis: Optimal Fiscal Policy and Implicit Redistribution in a Dual Economy. 
+1. Rosso, Biagio. (2025). Lucas-Stokey meet Lewis: Optimal Fiscal Policy and Implicit Redistribution in a Dual Economy. 
    - [Slides, Bank of England Macro Brownbag](Rosso_DualEconomyFiscalPolicy_Slides_New.pdf)
    
-3. Rosso, Biagio and Gatto, Matteo. (2025). The Changing Slope of the Phillips Curve: a State-Space Model and
+2. Rosso, Biagio and Gatto, Matteo. (2025). The Changing Slope of the Phillips Curve: a State-Space Model and
 Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope. 
    - [Slides and advanced draft available on request](mailto:br421@cam.ac.uk)
   
-4. Rosso, B. and Samaras, G. Fiscal Policy, Inequality, and Energy Transitions in Regionally Fragmented Economies: a “Double TANK” and Bayesian Estimation with UK Data.
+3. Rosso, B. and Samaras, G. Fiscal Policy, Inequality, and Energy Transitions in Regionally Fragmented Economies: a “Double TANK” and Bayesian Estimation with UK Data.
    - King’s College London Eteron Institute Research Project “Reclaiming Europe’s Industrial Policy
     Through Just Taxation and Innovation. 2025. [Link to Grant Call.](https://www.kcl.ac.uk/news/kings-college-london-and-eteron-institute-launch-new-research-project-on-industrial-policy-and-just-taxation)
    - [Research Proposal and Modelling Project](Research Proposal KCL-ETERON.pdf)
