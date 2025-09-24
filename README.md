@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Ph.D. Student at the University of Cambridge, working in macroeconomics, monetary economics, and development. My main interest and work is in theoretical DSGE and HANK modelling, the estimation of DSGE and HANK models with business cycle and empirical data and particularly Bayesian approaches, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, the role of wealth inequality in the business cycle, and applications to the analysis of monetary and fiscal policy transmission and their optimal design.
+I am a Ph.D. Student at the University of Cambridge, working in macroeconomics, monetary economics, and development. My main interest and work is in theoretical DSGE and HANK modelling, the estimation of DSGE and HANK models with business cycle and empirical data and particularly Bayesian approaches, computational and solution methods in the state and sequence-space, institutional and behavioural frictions in DSGE, the role of wealth inequality and redistribution in the business cycle, the role of financial intermediares in macroeconomic transmission, and applications to the analysis of monetary and fiscal policy transmission and their optimal design.
 
 - [Contact Me: br421@cam.ac.uk](mailto:br421@cam.ac.uk)
 - [CV](CVwebsite.pdf)
@@ -28,18 +28,18 @@ Thank you for your time and consideration!
     </div>
     <div class="project-card">
       <h3><a href="https://postkeynesian.net/media/working-papers/PKWP2511.pdf"> Rosso, Biagio & Gatto, Matteo. (2025). Occasionally         Binding Constraints in DSGE Models with Heterogeneous Agents: a Generalised Nonlinear Framework and Applications to Inequality and Monetary Policy at the ZLB.</a></h3>
-      <p> Post-Keynesian Economics Society (PKES) Working Paper Series, PKWP2511. Included in New Economics Papers (NEP) Reports: NEP-          CBA, NEP-DGE, NEP-MON, NEP-MAC & Conference Paper, 19th Annual DYNARE conference (Heterogeneity and Nonlinearities in                    Macroeconomics)</p>
+      <p> - Post-Keynesian Economics Society (PKES) Working Paper Series, PKWP2511. Included in New Economics Papers (NEP) Reports: NEP-          CBA, NEP-DGE, NEP-MON, NEP-MAC & Conference Paper, 19th Annual DYNARE conference (Heterogeneity and Nonlinearities in                    Macroeconomics)</p>
     </div>
 
  <div class="project-card">
       <h3><a href="Slides_Biagio_BankofEnglandSeminar.pdf"> Lenney, Jamie & Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space.</a></h3>
-      <p> -- Slides (Bank of England MPOD Seminar, August 2025)  </p>
-      <p> -- Full Draft in Preparation </p>
+      <p> - Slides (Bank of England MPOD Seminar, August 2025) available through the link</p>
+      <p> - Full Draft in Preparation </p>
     </div>
     
   <div class="project-card">
       <h3><a href="mailto:br421@cam.ac.uk"> Rosso, Biagio. (2025). How Financial-Institutional Structure Drives Business Cycle(s): a Semi-Structural DSGE Modelling Framework.</a></h3>
-      <p> Slides and full draft available on request  </p>
+      <p> - Slides and full draft available on request  </p>
     </div>
 </div>
 
@@ -65,7 +65,16 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
    - King’s College London Eteron Institute Research Project “Reclaiming Europe’s Industrial Policy
     Through Just Taxation and Innovation. 2025. [Link to Grant Call.](https://www.kcl.ac.uk/news/kings-college-london-and-eteron-institute-launch-new-research-project-on-industrial-policy-and-just-taxation)
    - [Research Proposal and Modelling Project](Research Proposal KCL-ETERON.pdf)
-  
+
+## Teaching
+
+- MF2A Econometrics II (Post-Graduate Course, University of Cambridge)
+- MF2 Econometrics I, Master's Degree (Post-Graduate Course, University of Cambridge)
+- Topics in Advanced Macroeconomics with Continuous Time (Advanced Undergraduate Course, Jesus College Cambridge - Pomona College Exchange Programme)
+- CDS Econometrics Workshop Series (Workshops for Centre of Development Studies Master's students writing theses in Applied Econometrics)
+- Paper 1 Economics (Undergraduate Course, University of Cambridge)
+- Paper 7 Regional Economics & Policy (Undergraduate Course, University of Cambridge)
+
 ## Sample Teaching Materials
 
 - Paper 1 Economics: [Monopolistic Competition and Games (First Year UG)](Slides_Paper1_Supo.pdf)
