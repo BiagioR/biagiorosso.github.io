@@ -23,7 +23,7 @@ Thank you for your time and consideration!
 <div class="project-grid">
     <div class="project-card">
       <h3><a href="https://mpra.ub.uni-muenchen.de/125094/1/MPRA_paper_125094.pdf"> Rosso, Biagio & Gatto, Matteo. (2024). Dynamics and         Optimal Monetary-Fiscal Policy in Fiscally Dominant Economies with Occasionally Inflexible Monetary Authorities</a></h3>
-      <p> MPRA Paper, University Library of Munich, Germany. 2025. Included in New Economics Papers (NEP) Reports: NEP-CBA,
+      <p> - MPRA Paper, University Library of Munich, Germany. 2025. Included in New Economics Papers (NEP) Reports: NEP-CBA,
       NEP-DGE, NEP-MON, NEP-MAC.</p>
     </div>
     <div class="project-card">
@@ -48,7 +48,7 @@ Thank you for your time and consideration!
 <div class="project-grid">
     <div class="project-card">
       <h3><a href="http://www.accessecon.com/Pubs/EB/2025/Volume45/EB-25-V45-I2-P86.pdf"> Rosso, Biagio. (2025). Notes on inflationary         news and the equity premium puzzle in a two-asset incomplete markets model</a></h3>
-      <p> Economics Bulletin (EB), Vol 45 Issue 2 </p>
+      <p> - Published in Economics Bulletin (EB), Vol 45 Issue 2 </p>
     </div>
 </div>
 
@@ -81,7 +81,7 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
 - Paper 1 Economics: [Welfare Theorems (First Year UG)](Slides_Paper_1_Economics_Supo_4.pdf)
 - Paper 7 Regional Economics and Trade: [Dixit-Sitglitz-Krugman Model and Home Market Effect (Second Year UG)](Slides_Paper_7_Krugman_HomeMarketEffect.pdf)
 
-## Affiliation
+## Affiliations
 - [University of Cambridge](https://www.devstudies.cam.ac.uk/staff/biagio-rosso)
 - King's College London, University of London
 - Corpus Christi College, University of Cambridge
