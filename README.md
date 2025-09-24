@@ -33,8 +33,8 @@ Thank you for your time and consideration!
 
  <div class="project-card">
       <h3><a href="Slides_Biagio_BankofEnglandSeminar.pdf"> Lenney, Jamie & Rosso, Biagio. (2025). Flexible Deviations from FIRE in the Sequence Space.</a></h3>
-      <p> Slides (Bank of England MPOD Seminar, August 2025)  </p>
-      <p> Full Draft in Preparation </p>
+      <p> -- Slides (Bank of England MPOD Seminar, August 2025)  </p>
+      <p> -- Full Draft in Preparation </p>
     </div>
     
   <div class="project-card">
