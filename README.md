@@ -68,8 +68,8 @@ Kalman-Filter for Estimating Dynamic Volatility in the Unobservable Slope.
 
 ## Teaching
 
-- MF2A Econometrics II (Post-Graduate Course, University of Cambridge)
-- MF2 Econometrics I, Master's Degree (Post-Graduate Course, University of Cambridge)
+- MF2A Econometrics II (Master's Degree, University of Cambridge)
+- MF2 Econometrics I, (Master's Degree, University of Cambridge)
 - Statistics, EMACC (Master's Degree), Judge Business School (University of Cambridge)
 - Topics in Advanced Macroeconomics with Continuous Time (Advanced Undergraduate Course, Jesus College Cambridge - Pomona College Exchange Programme)
 - CDS Econometrics Workshop Series (Workshops for Centre of Development Studies Master's students writing theses in Applied Econometrics)
